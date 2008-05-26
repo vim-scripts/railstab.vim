@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2253
+
+This plugin contains the retabbing feature from rails.vim that will be removed in a forthcoming version.  I have provided this plugin as a courtesy to anyone actually relying on it and recommend that potential new users stay away.
